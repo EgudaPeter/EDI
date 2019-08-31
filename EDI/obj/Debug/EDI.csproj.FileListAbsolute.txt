@@ -1,0 +1,18 @@
+c:\users\peter\documents\visual studio 2013\Projects\EDI\EDI\bin\Debug\EDI.exe.config
+c:\users\peter\documents\visual studio 2013\Projects\EDI\EDI\bin\Debug\EDI.exe
+c:\users\peter\documents\visual studio 2013\Projects\EDI\EDI\bin\Debug\EDI.pdb
+c:\users\peter\documents\visual studio 2013\Projects\EDI\EDI\obj\Debug\EDI.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2013\Projects\EDI\EDI\obj\Debug\EDI.EDI.resources
+c:\users\peter\documents\visual studio 2013\Projects\EDI\EDI\obj\Debug\EDI.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2013\Projects\EDI\EDI\obj\Debug\EDI.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2013\Projects\EDI\EDI\obj\Debug\EDI.exe
+c:\users\peter\documents\visual studio 2013\Projects\EDI\EDI\obj\Debug\EDI.pdb
+C:\EDI\EDI\bin\Debug\EDI.exe.config
+C:\EDI\EDI\bin\Debug\EDI.exe
+C:\EDI\EDI\bin\Debug\EDI.pdb
+C:\EDI\EDI\obj\Debug\EDI.csprojResolveAssemblyReference.cache
+C:\EDI\EDI\obj\Debug\EDI.EDI.resources
+C:\EDI\EDI\obj\Debug\EDI.Properties.Resources.resources
+C:\EDI\EDI\obj\Debug\EDI.csproj.GenerateResource.Cache
+C:\EDI\EDI\obj\Debug\EDI.exe
+C:\EDI\EDI\obj\Debug\EDI.pdb
